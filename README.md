@@ -1,4 +1,6 @@
-## Hi! I'm Matthew - a full-stack developer
+## Welcome!
+
+I'm Matthew - a tech writer turned full-stack developer.
 
 ### Connect
 
