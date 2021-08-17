@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm Matthew - a tech writer turned full-stack developer.
+I'm Matthew - a tech writer turned full-stack developer @ [Xero](https://www.xero.com/ca/).
 
 ### Connect
 
